@@ -8,3 +8,8 @@ Creating hello word in golang  with scratch base image and mult stage build in d
 ```
 docker run marquinhusbill/golang
 ```
+or pull image
+
+```
+docker pull marquinhusbill/golang
+```
